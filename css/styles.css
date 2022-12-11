@@ -1,5 +1,5 @@
 body {
-  color: #40514E
+  color: #40514E;
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -111,7 +111,6 @@ hr{
   margin-bottom: 60px;
   margin-top: 60px;
 }
-
 .btn:hover {
   background: #30e3cb;
   background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
